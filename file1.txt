@@ -1,0 +1,4 @@
+Check Global User Configuration
+The global user configuration is typically set for your user profile and is used across all repositories unless overridden by a local configuration.
+Check Global User Name: Example $ git config --global user.name
+Check Global User Email: Example $ git config –global user.email
